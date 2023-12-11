@@ -12,7 +12,7 @@ Explore a collection of my recent projects that reflect my dedication to craftin
 **StyleHub** 
 + Designed, developed, and deployed an e-commerce website named StyleHub, specializing in fashion products for both men and women. It exemplifies my proficiency in full-stack development as I leveraged the MERN stack to create an intuitive and seamless user experience.
 
-+ Live Demo - 
++ Live Demo - https://github.com/mohammadrameez/StyleHub-Online-Shopping-platform
 
 
 **Speech Emotion Recognition** 
