@@ -18,4 +18,4 @@ Explore a collection of my recent projects that reflect my dedication to craftin
 **Speech Emotion Recognition** 
 + This project is built using a multi-layer Perceptron (MLP) model, which is a type of artificial neural network. The MLP model used in this project consists of several attributes that can be customized for optimal performance.
 
-+ Live Demo - 
++ Live Demo - https://github.com/mohammadrameez/Speech-Emotion-Recognition
